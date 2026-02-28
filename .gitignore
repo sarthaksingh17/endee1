@@ -28,5 +28,18 @@ data/*
 frontend/
 frontend/*
 
+# Python virtual environment
+venv/
+.venv/
+codescope/venv/
+codescope/.venv/
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+codescope/.env
+
 # DS Store
 .DS_Store
+/redundant

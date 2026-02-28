@@ -1,0 +1,9 @@
+requests>=2.31
+msgpack>=1.0
+sentence-transformers>=2.2
+streamlit>=1.30
+gitpython>=3.1
+beautifulsoup4>=4.12
+numpy>=1.24
+torch>=2.0
+python-dotenv>=1.0
